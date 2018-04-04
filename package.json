@@ -1,7 +1,7 @@
 {
-	"name": "angular-skeleton",
+	"name": "task-card-app",
 	"version": "1.0.0",
-	"description": "Angular skeleton project",
+	"description": "Task Card App",
 	"scripts": {
 		"start": "tsc && concurrently \"tsc-w\" \"lite-server\" ",
 		"lite": "lite-server",
@@ -24,8 +24,10 @@
 		"@angular/router": "3.1.2",
 		"@types/core-js": "0.9.46",
 		"angular-in-memory-web-api": "0.1.13",
-		"bootstrap": "4.0.0-alpha.5",
+		"bootstrap": "4.0.0",
 		"core-js": "2.4.1",
+		"jquery": "3.3.1",
+		"popper.js": "1.14.3",
 		"reflect-metadata": "0.1.8",
 		"rxjs": "5.0.0-beta.12",
 		"systemjs": "0.19.40",
