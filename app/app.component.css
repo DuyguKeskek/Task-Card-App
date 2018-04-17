@@ -1,0 +1,24 @@
+.container {
+    padding-top: 1.5rem;
+}
+.row {
+    margin-bottom: 1.5rem;
+}
+.form-inline {
+    justify-content: center;
+}
+.form-inline .form-group {
+    padding-right: .5rem;
+}
+.btn, .btn:active, .btn:focus, .btn:focus-within, .btn:hover, .btn:visited {
+    background-color: teal !important;
+    border-color: teal !important;
+    box-shadow: none !important;
+}
+.form-control:focus {
+    border-color: teal !important;
+    box-shadow: none;
+}
+.fa-plus {
+    padding-right: .5rem;
+}

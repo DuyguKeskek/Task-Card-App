@@ -13,3 +13,6 @@ i {
     color: #CC0000;
     padding-right: .5rem;
 }
+.col-sm-3 {
+    max-width: none !important;
+}
